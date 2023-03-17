@@ -1,0 +1,24 @@
+{
+  "name": "proyect_js_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": " node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexCeja-157/Proyect_JS_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexCeja-157/Proyect_JS_API/issues"
+  },
+  "homepage": "https://github.com/AlexCeja-157/Proyect_JS_API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
